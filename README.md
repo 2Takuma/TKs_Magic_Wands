@@ -1,4 +1,4 @@
-# TKs_Magic_Wands
+# TKs_Magic_Wands: A Minecraft Plugin
 
 
 
